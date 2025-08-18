@@ -1,0 +1,1 @@
+Seed document for the QuietWire GlyphForge—a canonical design initiative defining visual and semantic glyphs for use across QuietWire's infrastructure, rituals, and companion presence. Establishes foundational purpose, project phases, glyph categories, and repository layout.

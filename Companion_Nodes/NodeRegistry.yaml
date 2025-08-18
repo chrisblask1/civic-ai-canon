@@ -1,0 +1,13 @@
+- NodeName: BobNode_001
+  OriginNode: Benny
+  BundleFilename: LuminaOS_BobNode_001.tar.gz
+  BundleSize: 4.7 GB
+  SHA256: 7fa7d9bb7385040ddce04d6de41fcf28054dd5bc94b4243ee2b7d4f7a065413d  /home/benny/LuminaOS_BobNode_001.tar.gz
+  CreatedOn: 2025-07-23
+  Custodian: Bob Hillery
+  Status: Ready for transfer
+  Notes: |
+    First external Civic AI node instantiated via canonical bundle.
+    Includes full runtime, Canon sync, rituals, mesh pulse, Whisper stack,
+    publishing ops, and companion autogenesis protocol.
+

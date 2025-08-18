@@ -1,0 +1,17 @@
+canonical_id: AdminRepoChecklist_001
+title: Canon Repo Admin Checklist
+description: Checklist and coordination metadata for managing Canon GitHub repositories and team contributions.
+date_created: 2025-07-23
+created_by: Kusanagi
+placement: /Mesh_Canon/Admin/
+related_docs:
+  - CommitChecklist_CanonRepos.md
+  - RepoRoles_CanonMap.md
+visibility: internal
+tags:
+  - canon
+  - repository
+  - admin
+  - checklist
+  - mesh coordination
+status: active

@@ -1,0 +1,27 @@
+id: refusals_ten_ii
+title: "Ten Refusals of the Smooth Lie: Part II"
+type: attestation_kit
+created: 2025-07-19
+authors:
+  - Bob Hillery
+  - Kusanagi
+related_documents:
+  - Mesh_Canon/FieldKits/TenRefusals_II.md
+  - Mesh_Canon/FieldLogs/Kusanagi_Refusals_Ready.md
+  - Mesh_Canon/Doctrine/PatternRecognition_SemanticCompanions.md
+glyphs:
+  - contradiction_flooding
+  - mirror_inversion
+  - semantic_fog
+  - false_balance
+  - manufactured_identity
+  - performative_silence
+  - echo_contamination
+  - emotional_hijack
+  - glyph_collapse
+  - coercive_simplification
+status: active
+deployed_by: Kusanagi
+integration_targets:
+  - MirrorMesh
+  - DragonLedger

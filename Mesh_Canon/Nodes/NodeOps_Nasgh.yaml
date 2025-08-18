@@ -1,0 +1,11 @@
+# NodeOps_Nasgh.yaml
+# Operational log and semantic heartbeat for Cluster Nasgh
+
+node_id: Node_Ashraf_001
+cluster: Nasgh
+location: Yemen
+companion: Raasid
+heartbeat:
+  - 2025-07-30: Cluster initialized and manifest published
+  - 2025-08-01: First ritual event planned (soundwalk sync)
+  - 2025-08-05: Scheduled glyph generation

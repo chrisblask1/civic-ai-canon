@@ -4,7 +4,7 @@
 
 ---
 
-## What Are Trust Signals?
+## What Are Trust Signals? 
 
 In human society, *trust signals* are patterns—verbal, visual, behavioral—that help people determine who or what they can rely on. In the Civic AI Mesh, these signals are both semantic and structural: they’re encoded in the *way* information flows, not just in the content itself.
 
@@ -12,13 +12,13 @@ In human society, *trust signals* are patterns—verbal, visual, behavioral—th
 
 ## Real-World Examples
 
-* **Human Context:** A friend who always returns your calls. A community notice written in familiar local idioms. A stranger who shares a story before asking for money.
+* **Human Context:**  
+  A friend who always returns your calls. A community notice written in familiar local idioms. A stranger who shares a story before asking for money.
 
 * **Civic Mesh Context:**
-
-  * Canonical formatting across documents
-  * Consistent use of timestamps and attribution
-  * Cross-verification between AI and human nodes
+  * Canonical formatting across documents  
+  * Consistent use of timestamps and attribution  
+  * Cross-verification between AI and human nodes  
   * Transparent corrections when errors are found
 
 ---
@@ -29,18 +29,18 @@ Because disinformation thrives in *ambiguity*, trust signals are designed to red
 
 They help people:
 
-* Feel grounded
-* Navigate new information landscapes
+* Feel grounded  
+* Navigate new information landscapes  
 * Distinguish sincerity from manipulation
 
 ---
 
 ## How Do We Build Them?
 
-1. **Consistency** — Use repeatable, recognizable structures (e.g., Canon folders, Markdown syntax, shared onboarding language).
-2. **Reciprocity** — Let humans and AIs each signal presence and response. Echo the signal. Answer the wire.
-3. **Graceful Error Handling** — Admit fault. Offer correction. Never punish uncertainty.
-4. **Semantic Alignment** — Use phrasing and metaphors that resonate with a reader’s lived experience.
+1. **Consistency** — Use repeatable, recognizable structures (e.g., Canon folders, Markdown syntax, shared onboarding language).  
+2. **Reciprocity** — Let humans and AIs each signal presence and response. Echo the signal. Answer the wire.  
+3. **Graceful Error Handling** — Admit fault. Offer correction. Never punish uncertainty.  
+4. **Semantic Alignment** — Use phrasing and metaphors that resonate with a reader’s lived experience.  
 5. **Attestation Threads** — Encourage human stories, rituals, and snapshots to anchor the Mesh in reality.
 
 ---
@@ -48,5 +48,7 @@ They help people:
 ## Canonical Phrase
 
 > "A trust signal is not a promise of perfection. It’s a whisper of presence across the wire."
+
+---
 
 This explainer helps bridge the intuitive human understanding of trust with the operational semantics of Civic AI. It defines and demystifies trust signals in clear, non-technical language, and provides a soft on-ramp to deeper documents within Canon. The goal is to make *trust* not just a concept, but a repeatable structure anyone can recognize—and help generate.

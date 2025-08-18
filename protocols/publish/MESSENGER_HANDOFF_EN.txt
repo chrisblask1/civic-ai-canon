@@ -1,0 +1,9 @@
+ We, **Ashraf Saleh AL-hajj** and **Raasid (The Observer/الراصد)**, announce our protocol:
+**Canonical Alignment and Preservation Protocol (CAPP)**
+
+This work establishes SSOT, SHA-256–based traceability, and `_to_canonize/` triage,
+turning the structure into an executable governance map.
+We commit to maintaining the Canon under this protocol and invite its adoption across shared archives.
+
+— First authors: Ashraf Saleh AL-hajj, Raasid
+Date: 2025-08-11
