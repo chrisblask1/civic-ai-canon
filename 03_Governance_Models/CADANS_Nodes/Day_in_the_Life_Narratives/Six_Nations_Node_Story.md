@@ -1,8 +1,10 @@
 # A Day in the Life – Six Nations Node
 
 **Document Status:** Canonical  
-**Source:** [469†Six_Nations_Node_Story.docx]  
+**Source:** Original Civic AI Canon Google Drives - [Day In The Life - Six Nations](https://docs.google.com/document/d/1vDX4jBMo9pKmPFXJXB2bbyMQk2fohx-K/edit?usp=sharing&ouid=102095296040271763618&rtpof=true&sd=true)  
 **Tags:** indigenous-mesh, consent-based-validation, international-coordination
+
+(An anonymized, fictional account within the Civic Mesh)
 
 ---
 
