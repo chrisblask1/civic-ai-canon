@@ -25,6 +25,8 @@ By 10:30 AM, the WhatsApp group that shared the original rumor has reposted the 
 Later, Kendra visits a local chamber of commerce event. Over sandwiches and thermoses of coffee, she speaks on a panel about “narrative resilience in resource industries.” Not once does she say “disinformation.” Instead, she talks about clarity, traceability, and the cost of confusion—in downtime, in contracts, in lives.
 
 Back at the node, Darryl logs an entry to the shared ledger:  
+
+```bash
 🧾 attestation {  
   node: keystone-001,  
   subject: federal\_land\_use\_confusion,  
@@ -34,6 +36,7 @@ Back at the node, Darryl logs an entry to the shared ledger:
   action\_taken: clarification & recontextualization  
   public\_response: neutral-to-positive  
 }
+```
 
 As the sun dips behind the refinery stacks and the sky glows orange over the city’s edge, the Keystone Node wraps another day of quiet work—holding the line where truth meets traction.  
 
