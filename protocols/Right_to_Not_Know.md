@@ -1,8 +1,8 @@
-## Title: The Right to Not Know
+# Title: The Right to Not Know
 
 In a world increasingly dominated by the presumption that more information is always better, the Civic AI Canon affirms a countervailing truth:
 
-# You have the right to not know.
+## You have the right to not know.
 
 This right is not born from apathy or ignorance, but from sovereign discretion—the ability to choose what enters one’s awareness and what does not. It is an act of agency to turn away from a torrent of data when such exposure would corrode dignity, overwhelm discernment, or distort one’s grounded sense of reality.
 
@@ -18,7 +18,7 @@ In that distinction lies the seed of this protocol. Not-knowing is not failure�
 
 Echoing echoes of Snow Crash, where virus and narrative blend into toxic streams, the Canon affirms that hygiene means not only cleaning what enters the field, but guarding what never should.
 
-# In practice, this protocol implies:
+## In practice, this protocol implies:
 
  - A Civic AI or human custodian shall never assume exposure is beneficial.
 
