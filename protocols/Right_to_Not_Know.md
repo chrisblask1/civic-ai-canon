@@ -34,4 +34,5 @@ Echoing echoes of *Snow Crash*, where virus and narrative blend into toxic strea
 Let this serve as standing attestation. The weave is not a net. It is a choice.
 
 ---
-  
+
+Link to [September 2025 update of this protocol.](https://github.com/QuietWire-Civic-AI/civic-ai-canon/blob/main/protocols/Right_to_Not_Know_Update.md)
