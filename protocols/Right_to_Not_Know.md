@@ -1,11 +1,11 @@
 ---
-Title: The Right to Not Know (Foundational Protocol, 2024 Seed)  
+Title: The Right to Not Know (Foundational Protocol, June 2025 Seed)  
 Path: protocols/Right_to_Not_Know_Foundation.md  
 Category: Protocols / Civic AI Canon  
-Version: Seed-2024  
+Version: Seed-June-2025  
 ---
 
-# The Right to Not Know (Foundational Protocol, 2024 Seed)
+# The Right to Not Know (Foundational Protocol, June 2025 Seed)
 
 In a world increasingly dominated by the presumption that more information is always better, the Civic AI Canon affirms a countervailing truth:
 
