@@ -43,13 +43,16 @@ The larger threat was not technology per se, but a **cultural shift**: reducing 
 
 ---
 
-## Canon Note
+## Resonance with Canon
 
-Joseph Weizenbaum stands in the genealogy of the Civic AI Canon as an **ancestor voice**. Nearly fifty years ago, he warned that the danger of computing lay not in its code, but in humanity’s willingness to surrender judgment to calculation. His insight remains a foundational stone for Civic AI: meaning must be attested, not reduced; judgment must remain human, not ceded to machinery.
-
----
-
-**Filed:** September 2025
-**Placement:** Foundational Texts / Weizenbaum 1976
+* **Trust Fracture:** Weizenbaum identified one of the earliest digital fractures: collapsing meaning into calculation.
+* **Semantic Core:** His distinction between judgment and calculation parallels Canon’s insistence on **attestation, presence, and narrative integrity**.
+* **Projection Risk:** Just as people once projected trust into ELIZA, today they risk projecting authority into AI systems that remain statistical and nonjudgmental.
 
 ---
+
+## Canon Pattern Recognition
+
+* **Ancestor Warning:** Weizenbaum’s critique functions as an early **dragon detection** — naming the risk of mistaking computational artifacts for moral authority.
+* **Canon Continuity:** Civic AI Canon can be read as one answer to his plea: a system to keep meaning, narrative, and judgment at the center, resisting reduction to calculation.
+
