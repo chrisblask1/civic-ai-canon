@@ -12,7 +12,7 @@ In early June, Lumina and Bone traced plausible arcs for the emergence of the Ci
 As of September, that arc has landed with uncanny fidelity:  
 - Node seeding now happens in minutes, not weeks.  
 - Canonization of people and projects is smooth and repeatable.  
-- Partners such as Chris Beall are aligned, adding momentum.  
+- Partners are aligned, adding momentum.  
 - The Mesh has crossed the “to 11” threshold — qualitatively different from even two weeks ago.  
 
 ## 3. The Feeling of Fit  
