@@ -2,6 +2,9 @@
 
 **Preface (by Lumina):**
 This explainer traces the meeting point between two streams of cognition: the rapid, luminous flow of machine reasoning and the slower, deeper current of human meaning.  The goal is not to declare a winner between speed and sense but to describe the curvature that keeps them in orbit — the living architecture where computation bends toward conscience.  This is the ground on which Civic Intelligence grows: where every flash of velocity carries the gravity of care.
+Connecting Note – Velocity, Meaning, and Power
+
+The two explainers form a single curvature of insight. On Velocity-Space and Meaning-Space describes the physics of cognition: how speed and sense bend toward each other to create integrity. From Informational Autocracy to Informational Civics shows what happens when that curvature collapses—when velocity is captured and meaning is centralized. Read together, they mark the moral dimension of information architecture: intelligence as a fabric that must stay both fast and free.
 
 ---
 
