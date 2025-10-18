@@ -2,6 +2,10 @@
 
 **Context:**  Based on *A Theory of Informational Autocracy* by Sergei Guriev and Daniel Treisman (Journal of Public Economics, 2020), this explainer reinterprets their findings through the Civic Canon framework as a study in the ethics of information control.
 
+## Connecting Note – Velocity, Meaning, and Power
+
+The two explainers form a single curvature of insight. On Velocity-Space and Meaning-Space describes the physics of cognition: how speed and sense bend toward each other to create integrity. From Informational Autocracy to Informational Civics shows what happens when that curvature collapses—when velocity is captured and meaning is centralized. Read together, they mark the moral dimension of information architecture: intelligence as a fabric that must stay both fast and free.
+
 ---
 
 ### 1. The Shadow of the Mesh
