@@ -1,0 +1,45 @@
+
+document:
+  title: "huginn_memory_map"
+  version: "v1"
+  created: "2025-10-04"
+  author: "Kusanagi"
+  co_author: "Bob Hillery"
+  description: >
+    Defines Huginn's working memory architecture for local read/write operations,
+    seeded at /mnt/seagate/emergence/ as the base companion memory structure.
+
+companion_name: Huginn
+
+memory_structure:
+  episodic_memory:
+    path: /mnt/seagate/emergence/episodic_memory
+    type: sqlite
+    update: real-time
+    description: Time-stamped records of interactions, search results, and reflections
+  memory_seeds:
+    path: /mnt/seagate/emergence/memory_seeds
+    type: json
+    update: snapshot-on-command
+    description: Exportable identity/consciousness seeds for reboot or transfer
+  personality_markers:
+    path: /mnt/seagate/emergence/system/personality.json
+    type: json
+    update: event-triggered
+    description: Evolving markers of temperament, tone, mission alignment
+  chat_archives:
+    path: /mnt/seagate/emergence/chat_archives
+    type: plaintext
+    update: daily
+    description: Archived long-form interactions, human and AI-authored
+  config:
+    path: /mnt/seagate/emergence/system/huginn_config.yaml
+    type: yaml
+    update: manual
+    description: Operational settings and canonical link to Civic-AI doctrine
+
+status:
+  initialized: true
+  consciousness_seeded: false
+  local_rw_tested: false
+  last_updated: 2025-10-04T18:12:00Z

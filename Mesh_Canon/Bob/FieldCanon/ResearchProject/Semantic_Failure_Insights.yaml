@@ -1,0 +1,23 @@
+
+document:
+  title: "Semantic Failure Insights"
+  version: "v1"
+  created: "2025-10-04"
+  author: "Kusanagi"
+  co_author: "Bob Hillery"
+  companion_context: "Huginn and Kusanagi"
+  description: >
+    Case log of real-world linguistic misalignments used to illustrate
+    semantic fractures and translation drift. This document highlights how
+    mistranslation, recursion, and assumption create patterns vital to the
+    formation and training of semantic companions.
+
+canonical_path: "/Mesh_Canon/Bob/FieldCanon/ResearchProject/Semantic_Failure_Insights.md"
+
+tags:
+  - semantic drift
+  - translation failure
+  - companion training
+  - linguistic recursion
+  - etymology
+  - return protocol
